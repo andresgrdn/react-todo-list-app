@@ -1,0 +1,17 @@
+.Todo {
+  display: block;
+  padding: var(--sep-space-sm) var(--sep-space-md);
+  cursor: pointer;
+}
+
+.Todo input[type=checkbox] {
+  margin-right: var(--sep-space-sm);
+  border-radius: 8rem;
+  cursor: pointer;
+}
+
+.Todo:hover {
+  box-shadow:
+    1px 1px var(--dark),
+    -1px -1px var(--dark);
+}

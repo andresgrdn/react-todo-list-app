@@ -1,0 +1,17 @@
+:root {
+  --font: sans-serif;
+
+  --primary-color: hsl(0 0% 20%);
+  --primary-color-l1: hsl(0 0% 20% / 0.1);
+  --white: hsl(0 100% 100%);
+  --dark: hsl(0 0% 10%);
+  --dark-light: hsl(0 0% 15%);
+
+  --sep-space-sm: 12rem;
+  --sep-space-md: 16rem;
+  --sep-space-lg: 20rem;
+
+  --fs-sm: 16rem;
+  --fs-md: 20rem;
+  --fs-lg: 24rem;
+}
